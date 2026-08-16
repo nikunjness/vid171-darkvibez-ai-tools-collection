@@ -161,6 +161,7 @@ Maintained by **[@darkvibez456](https://github.com/darkvibez456)**
 | ![HeyGen](https://img.shields.io/badge/HeyGen-f97316?style=flat-square&logoColor=white) | Realistic AI human video generator | ✅ / 💰 | [→ Visit](https://heygen.com) |
 | ![Invideo](https://img.shields.io/badge/Invideo%20AI-8b5cf6?style=flat-square&logoColor=white) | AI-powered video script and creation tool | ✅ / 💰 | [→ Visit](https://invideo.io) |
 | ![Lumen5](https://img.shields.io/badge/Lumen5-ec4899?style=flat-square&logoColor=white) | Convert blog posts to videos using AI | ✅ / 💰 | [→ Visit](https://lumen5.com) |
+| ![videos.social](https://img.shields.io/badge/videos.social-111827?style=flat-square&logoColor=white) | Turn blogs, PDFs, and prompts into editable faceless videos | ✅ / 💰 | [→ Visit](https://videos.social/?utm_source=darkvibez456-ai-tools-collection&utm_medium=directory&utm_campaign=listing-wave-d) |
 | ![Kaiber](https://img.shields.io/badge/Kaiber-1a1a2e?style=flat-square&logoColor=white) | AI creative video generation tool | ✅ / 💰 | [→ Visit](https://kaiber.ai) |
 
 ---
